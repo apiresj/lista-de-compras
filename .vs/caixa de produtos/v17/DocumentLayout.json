@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|c:\\users\\usu\u00E1rio\\documents\\projetos\\caixa de produtos\\cadastro de produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|solutionrelative:cadastro de produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\cadastro de produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|solutionrelative:cadastro de produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05A732C-2501-43EC-8F13-F529DAC57DF2}|caixa de produtos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:27:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:31:22.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro De Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Cadastro De Produtos.cs",
+              "RelativeDocumentMoniker": "Cadastro De Produtos.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Cadastro De Produtos.cs",
+              "RelativeToolTip": "Cadastro De Produtos.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:15:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro De Produtos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Cadastro De Produtos.cs",
+              "RelativeDocumentMoniker": "Cadastro De Produtos.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Cadastro De Produtos.cs [Design]",
+              "RelativeToolTip": "Cadastro De Produtos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:10:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\projetos\\caixa de produtos\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:46:10.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

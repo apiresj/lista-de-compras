@@ -1,0 +1,11 @@
+C:\Users\Usuário\Documents\projetos\caixa de produtos\bin\Debug\caixa de produtos.exe.config
+C:\Users\Usuário\Documents\projetos\caixa de produtos\bin\Debug\caixa de produtos.exe
+C:\Users\Usuário\Documents\projetos\caixa de produtos\bin\Debug\caixa de produtos.pdb
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa de produtos.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa_de_produtos.Form1.resources
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa_de_produtos.Properties.Resources.resources
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa de produtos.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa de produtos.exe
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa de produtos.pdb
+C:\Users\Usuário\Documents\projetos\caixa de produtos\obj\Debug\caixa_de_produtos.frmCadProdutos.resources
